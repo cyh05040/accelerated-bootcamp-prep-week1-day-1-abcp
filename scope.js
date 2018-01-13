@@ -3,7 +3,7 @@ function setSpeciesVariable() {
 }
 
 function dogInfo(){
-  var name = "Fido";
+  name = "Fido";
   console.log("Species is " + species);
   console.log("Name is " + name);
 }
